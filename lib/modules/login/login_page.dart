@@ -16,7 +16,7 @@ class LoginPage extends StatelessWidget {
       child: Scaffold(
         body: Column(
           children: [
-            // 🔹 TOP IMAGE (NOT SCROLLABLE)
+          
             SizedBox(
               height: screenHeight * 0.45,
               width: double.infinity,
@@ -26,7 +26,7 @@ class LoginPage extends StatelessWidget {
               ),
             ),
 
-            // 🔹 LOGIN FORM (SCROLLABLE)
+         
             Expanded(
               child: SingleChildScrollView(
                 padding:
