@@ -9,4 +9,11 @@ A Flutter-based e-commerce application with authentication.
 
 state maangement used is provider.
 
+## Getting Started
+Run these commands to start the project:
+
+flutter pub get
+
+flutter run
+
 
